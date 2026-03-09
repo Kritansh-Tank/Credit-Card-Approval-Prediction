@@ -119,7 +119,7 @@ Score = max(0, 100 − (MAE(actual, predicted) ^ 0.5) / 10)
 ## Project Structure
 
 ```
-Predict-credit-card-approval/
+Credit-Card-Approval-Prediction/
 ├── dataset/
 │   ├── train.csv
 │   ├── test.csv
